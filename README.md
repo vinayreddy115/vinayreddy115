@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: 
-baradi@usf.edu
+- :mail  : [MailId](baradi@usf.edu)
+- :office: [LinkedIn](www.linkedin.com/in/vinay-kumar-reddy-baradi)
+- :Social: [YouTube](https://www.youtube.com/channel/UCW9LQsJM6mKtsiOSW3z4yGQ)
 
 
