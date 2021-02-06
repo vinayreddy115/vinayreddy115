@@ -9,8 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I'm addicted to learning, implementing innovative thoughts
 - 🔭 I’m currently working on Semantic Search Engine
 - 📫 How to find me: 
-  - :email:   [MailId](baradi@usf.edu)
-  - :office:  [LinkedIn](www.linkedin.com/in/vinay-kumar-reddy-baradi)
+  - :office:  [LinkedIn](https://www.linkedin.com/in/vinay-kumar-reddy-baradi/)
   - :speaker: [YouTube](https://www.youtube.com/channel/UCW9LQsJM6mKtsiOSW3z4yGQ)
 
 
