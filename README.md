@@ -12,4 +12,4 @@ Here are some ideas to get you started:
   - :office:  [LinkedIn](https://www.linkedin.com/in/vinay-kumar-reddy-baradi/)
   - :speaker: [YouTube](https://www.youtube.com/channel/UCW9LQsJM6mKtsiOSW3z4yGQ)
 
-
+[![Vinay's github stats](https://github-readme-stats.vercel.app/api?username=vinayreddy115&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
